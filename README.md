@@ -36,5 +36,5 @@ Age: [Enter your age ↑↓]
 
 ## ✍️ Author
 **Pankaj Kumar**
-Master at codeforces, 5 star at codechef and 5 star at gfg
+
 ---
